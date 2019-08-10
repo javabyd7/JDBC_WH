@@ -42,6 +42,7 @@ public class DbConnector {
             loadDriver();
             loadConnection();
         }
+
         return connection;
     }
 
